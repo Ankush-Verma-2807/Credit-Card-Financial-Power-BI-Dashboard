@@ -14,7 +14,7 @@ The Credit Card Transaction Finance Dashboard is designed to provide real-time i
 
 ![image](https://github.com/Ankush-Verma-2807/Credit-Card-Financial-Power-BI-Dashboard/assets/155877268/7c077cdf-093e-4109-a1ee-8bfaab4ba869)
 
-## Link to Dashboard: (Credit Card Transaction Financial Dashboard)[https://app.powerbi.com/view?r=eyJrIjoiYmMxNTI3MjItMWI5Yy00ZjFkLTljNTEtMjVlZTJmMDFmOWU4IiwidCI6IjI1ODVhZDNiLWQzYjYtNGNhMC04ZjEwLTJmYTFlNWU1NDY1MyJ9]
+## Link to Dashboard: [Credit Card Transaction Financial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmMxNTI3MjItMWI5Yy00ZjFkLTljNTEtMjVlZTJmMDFmOWU4IiwidCI6IjI1ODVhZDNiLWQzYjYtNGNhMC04ZjEwLTJmYTFlNWU1NDY1MyJ90)
 
 ## Process of Creation of Project
 1. Imported CSV Data into SQL using SQL Queries and created tables.
